@@ -1,7 +1,7 @@
 # Cisco Packet Tracer
 How to Download and Install Cisco Packet Tracer
 
-### I've given the stuffs in this repo,or you can follow this [link](https://skillsforall.com/resources/lab-downloads) 
+### For downloading the tools you can follow this [link](https://skillsforall.com/resources/lab-downloads) 
 ### If you want the free course, follow these steps
 
 1. Go to [netacad.com](http://netacad.com), on the search button, type "Cisco Packet Tracer", enter
